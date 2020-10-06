@@ -1,0 +1,4 @@
+find . -regextype sed -regex ".*/[a-z0-9][~]“*" -exec rm -rf {} \;
+find . -regex '.*[a-z]\{~}'
+find . -name
+find . -type f \( -name '#*#' -o -name '*~' \)-print -delete

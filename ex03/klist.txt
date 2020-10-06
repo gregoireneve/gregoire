@@ -1,0 +1,6 @@
+Credentials cache: API:5FE3DEF4-E42D-47AE-BAEB-B02114D9D8AB
+        Principal: gneve@S19.BE
+
+  Issued                Expires               Principal
+Oct  5 10:02:06 2020  Oct  5 20:02:06 2020  krbtgt/S19.BE@S19.BE
+Oct  5 10:02:09 2020  Oct  5 20:02:06 2020  HTTP/san-ssd.s19.be@S19.BE
